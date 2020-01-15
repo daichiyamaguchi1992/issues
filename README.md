@@ -1,4 +1,4 @@
-# yamaguchi-project
+# issues
 
 ## Project setup
 ```
