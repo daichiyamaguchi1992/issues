@@ -1,6 +1,5 @@
 <template>
   <main id="app">
-    <router-link to="/issues">issuesへ</router-link>
     <router-view />
   </main>
 </template>
