@@ -16,7 +16,6 @@
 <script>
 import { mapState } from 'vuex'
 import Pagination from '../components/issues/Pagination'
-// import axios from "axios";
 export default {
   components: {
     Pagination
@@ -50,9 +49,6 @@ export default {
   list-style: none;
   margin: 2rem 0 0;
   padding: 0;
-  // &__item:nth-of-type(odd){
-  //   background-color: #fafafa;
-  // }
   &__item {
     border-right: 1px solid #aaa;
     border-left: 1px solid #aaa;

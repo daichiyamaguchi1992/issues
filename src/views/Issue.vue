@@ -1,7 +1,7 @@
 <template>
   <div class="issue">
     <div class="issue__breadcrumb">
-      <router-link :to="{ path: '/issues', query: {page: currentIssuesPageNumber } }">
+      <router-link :to="{ path: '/issues', query: {　page: currentIssuesPageNumber } }">
       ISSUES
       </router-link>/{{ issue.title }}
     </div>
