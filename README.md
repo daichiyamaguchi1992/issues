@@ -1,4 +1,5 @@
-# issues
+# Github issues
+Github APIを使用し、Issuesを取得・表示。
 
 ## Project setup
 ```
